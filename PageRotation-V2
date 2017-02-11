@@ -9,6 +9,7 @@ var pages = [
 	'http://yahoo.com',
 	'http://msn.com',
 	'http://google.com',
+	'http://apple.com',
 
 
 ], p = pages.length;
